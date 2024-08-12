@@ -112,7 +112,7 @@ def __files_loop():
 
 
 if __name__ == "__main__":
-    """Main
+    """ Main
     """
     if len(sys.argv) < 2:
         __print_stderr("usage: w3c_validator.py file1 file2 ...\n")
